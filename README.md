@@ -6,7 +6,7 @@ nav_order: 1
 
 # MESSE
 
-> Machine-Enhanced Scale Software Engineering
+> MESSE (Machine-Enhanced Scale Software Engineering)
 
 目标：融合**高效知识管理**与**LLM 先进 AI 技术**，以实现高效、可扩展和智能的软件开发。
 
