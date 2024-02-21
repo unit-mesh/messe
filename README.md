@@ -1,10 +1,16 @@
+---
+layout: default
+title: Messe
+nav_order: 1
+---
+
 # MESSE
 
 > Machine-Enhanced Scale Software Engineering
 
 目标：融合**高效知识管理**与**LLM 先进 AI 技术**，以实现高效、可扩展和智能的软件开发。
 
-MESSE 结合了行业在**敏捷**（如 SAFe 等）、**AI** 和**知识管理**的最佳实践，以实现高效、可扩展和智能的软件开发。还融合了我们在
+MESSE 结合了行业在**敏捷**（如 SAFe 框架等）、**AI**和**知识管理**的最佳实践，以实现高效、可扩展和智能的软件开发。还融合了
 Thoughtworks 在敏捷相关、技术的最佳实践、LLM 在 AI 技术的最佳实践。
 
 #### 1. **组织层**
