@@ -2,7 +2,7 @@
 layout: default
 title: 手动生成的 DSL
 nav_order: 5
-parent: Principle
+parent: Practise
 ---
 
 ## 示例：基于抽象语法树的架构上下文

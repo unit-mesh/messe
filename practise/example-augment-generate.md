@@ -2,7 +2,7 @@
 layout: default
 title: 示例增强生成
 nav_order: 4
-parent: Principle
+parent: Practise
 ---
 
 根据当前的用户习惯，寻找待生成的内容作为示例，而后作为生成式 AI 的输入。
