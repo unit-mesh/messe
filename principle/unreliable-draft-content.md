@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 不可信的草稿生成
-nav_order: 3
+nav_order: 1
 parent: Principle
 ---
 
