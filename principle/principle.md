@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Messe
+title: Principle
 nav_order: 3
 has_children: true
 ---
